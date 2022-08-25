@@ -1,0 +1,14 @@
+name: MonkeyRankup
+author: KingMonkeyy
+version: 1.16.4
+api-version: 1.13
+depend: [Vault]
+softdepend: [LuckPerms]
+description: screw ranks
+main: com.stinkymonkey.rankup.main
+
+commands:
+  rankup:
+    description: rank up bruh
+  prestige:
+    description: prestige up bruh

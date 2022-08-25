@@ -1,0 +1,21 @@
+basic:
+  consolePrefix: "[MonkeyRankup] "
+guiNames:
+  title: "&3&lRankup To &f{RANK}"
+  preTitle: "&3&lRankup To &f{RANK}"
+  greenAccept: "&a&lConfirm"
+  greenLore:
+    - "&3Rankp To &f{RANK} &3for:"
+    - "&a-${PRICE"
+  redCancel: "&c&lCancel"
+rankup:
+  requirements-not-met: "&cYou need ${MONEY} to rank up."
+  success-public: "&3{PLAYER} &fhas ranked up to: &3{RANK}"
+  success-private: "&fYou have ranked up to: &3{RANK}"
+  must-prestige: "&cYou must prestige to &f/rankup &3further!"
+prestige:
+  requirements-not-met: "&cYou need {MONEY} money to prestige."
+  success-public: "&3{PLAYER} &fhas prestiged to: &3{PRESTIGE}"
+  success-private: "&aYou have prestiged to: &3{PRESTIGE}"
+  no-prestige: "&3You are at the highest prestige."
+  not-high-enough: "&cYou cannot prestige at your rank!"

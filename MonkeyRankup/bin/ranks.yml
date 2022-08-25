@@ -1,0 +1,30 @@
+ranks:
+  rank0:
+    group: default
+    nextGroup: 2
+    price: 50000
+  rank1:
+    group: 2
+    nextGroup: 3
+    price: 50000
+  rank2:
+    group: 3
+    nextGroup: 4
+    price: 50000
+  rank3:
+    group: 4
+    nextGroup: 5
+    price: 50000
+  rank4:
+    group: 5
+    nextGroup: 6
+    price: 50000
+
+prestige:
+  pre0:
+    group: default
+    preGroup: a1
+    nextPreGroup: a2
+    price: 1000
+    multiplier: 10
+  
